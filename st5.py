@@ -9,8 +9,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 import io
 import streamlit as st
-import pydot
-import graphviz
+
 
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
